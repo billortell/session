@@ -1,0 +1,11 @@
+{
+  "name": "billortell/session",
+  "description": "Helper for sessions in PHP.",
+  "autoload": {
+    "psr-4": {
+      "Helpers\\Session\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
