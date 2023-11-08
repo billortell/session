@@ -1,6 +1,6 @@
 <?php
 
-namespace Helpers\Session;
+namespace Helpers;
 
 /**
  * Class Session

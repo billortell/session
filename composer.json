@@ -3,7 +3,7 @@
   "description": "Helper for sessions in PHP.",
   "autoload": {
     "psr-4": {
-      "Helpers\\Session\\": "src/"
+      "Helpers\\": "src/"
     }
   },
   "minimum-stability": "stable",
